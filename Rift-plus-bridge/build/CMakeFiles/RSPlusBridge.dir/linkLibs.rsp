@@ -1,0 +1,1 @@
+  -LC:/Users/buddy/Downloads/Video_Codec_SDK_13.0.37/Video_Codec_SDK_13.0.37/Lib/win/x64  -L"C:/openvr/openvr-master/lib/win64"  -lWs2_32 -ld3d11 -ldxgi -lnvcuvid -lnvEncodeAPI -lopenvr_api -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

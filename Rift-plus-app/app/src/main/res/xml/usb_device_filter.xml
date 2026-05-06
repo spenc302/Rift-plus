@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- USB device filter for Oculus Rift CV1
+     VID 0x2833 = Oculus VR
+     PID 0x0031 = Rift CV1 HMD HID interface -->
+<resources>
+    <usb-device vendor-id="10291" product-id="49" />
+</resources>

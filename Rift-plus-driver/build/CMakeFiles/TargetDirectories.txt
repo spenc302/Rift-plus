@@ -1,0 +1,4 @@
+C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-driver/build/CMakeFiles/driver_rsplus.dir
+C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-driver/build/CMakeFiles/INSTALL.dir
+C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-driver/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-driver/build/CMakeFiles/ZERO_CHECK.dir

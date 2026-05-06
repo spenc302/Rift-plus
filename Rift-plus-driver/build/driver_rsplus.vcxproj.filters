@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\buddy\Desktop\riftplus\Riftplus\Rift-plus-driver\driver_rsplus.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\buddy\Desktop\riftplus\Riftplus\Rift-plus-driver\CDeviceDriver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\buddy\Desktop\riftplus\Riftplus\Rift-plus-driver\CWatchdogDriver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\buddy\Desktop\riftplus\Riftplus\Rift-plus-driver\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{67BC768B-1894-3669-B670-9D3D1ABFFE6E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\buddy\Desktop\riftplus\Riftplus\Rift-plus-driver\build\CMakeFiles\fdec10458ae90aee0dee56fa06e3efd6\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{13845CC6-DB33-325B-8785-482BDE482F2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

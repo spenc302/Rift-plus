@@ -1,0 +1,12 @@
+{
+  "headset_ip": "192.168.1.100", 
+  "imu_port": 5005,
+  "video_port": 5006,
+  "video_settings": {
+    "width": 2160,
+    "height": 1200,
+    "fps": 90,
+    "bitrate_mbps": 25
+  },
+  "haptics_enabled": true
+}

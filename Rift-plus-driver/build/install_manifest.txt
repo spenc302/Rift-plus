@@ -1,0 +1,4 @@
+C:/Program Files (x86)/Steam/steamapps/common/SteamVR/drivers/rsplus/bin/win64/Release/driver_rsplus.dll
+C:/Program Files (x86)/Steam/steamapps/common/SteamVR/drivers/rsplus/driver.vrdrivermanifest
+C:/Program Files (x86)/Steam/steamapps/common/SteamVR/drivers/rsplus/driver.vrguide
+C:/Program Files (x86)/Steam/steamapps/common/SteamVR/drivers/rsplus/resources/driver.vrresources

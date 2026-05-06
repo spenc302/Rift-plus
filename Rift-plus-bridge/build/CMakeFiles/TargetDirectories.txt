@@ -1,0 +1,3 @@
+C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build/CMakeFiles/RSPlusBridge.dir
+C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build/CMakeFiles/edit_cache.dir
+C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build/CMakeFiles/rebuild_cache.dir

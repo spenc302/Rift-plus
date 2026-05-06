@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DNVENC_AVAILABLE -DOPENVR_AVAILABLE @CMakeFiles/RSPlusBridge.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\RSPlusBridge.dir\\src\\main.cpp.obj -c C:\\Users\\buddy\\Desktop\\riftplus\\Riftplus\\Rift-plus-bridge\\src\\main.cpp",
+  "file": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/src/main.cpp",
+  "output": "CMakeFiles/RSPlusBridge.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DNVENC_AVAILABLE -DOPENVR_AVAILABLE @CMakeFiles/RSPlusBridge.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\RSPlusBridge.dir\\src\\core\\BridgeEngine.cpp.obj -c C:\\Users\\buddy\\Desktop\\riftplus\\Riftplus\\Rift-plus-bridge\\src\\core\\BridgeEngine.cpp",
+  "file": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/src/core/BridgeEngine.cpp",
+  "output": "CMakeFiles/RSPlusBridge.dir/src/core/BridgeEngine.cpp.obj"
+},
+{
+  "directory": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DNVENC_AVAILABLE -DOPENVR_AVAILABLE @CMakeFiles/RSPlusBridge.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\RSPlusBridge.dir\\src\\network\\TelemetryReceiver.cpp.obj -c C:\\Users\\buddy\\Desktop\\riftplus\\Riftplus\\Rift-plus-bridge\\src\\network\\TelemetryReceiver.cpp",
+  "file": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/src/network/TelemetryReceiver.cpp",
+  "output": "CMakeFiles/RSPlusBridge.dir/src/network/TelemetryReceiver.cpp.obj"
+},
+{
+  "directory": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DNVENC_AVAILABLE -DOPENVR_AVAILABLE @CMakeFiles/RSPlusBridge.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\RSPlusBridge.dir\\src\\network\\VideoStreamer.cpp.obj -c C:\\Users\\buddy\\Desktop\\riftplus\\Riftplus\\Rift-plus-bridge\\src\\network\\VideoStreamer.cpp",
+  "file": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/src/network/VideoStreamer.cpp",
+  "output": "CMakeFiles/RSPlusBridge.dir/src/network/VideoStreamer.cpp.obj"
+},
+{
+  "directory": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DNVENC_AVAILABLE -DOPENVR_AVAILABLE @CMakeFiles/RSPlusBridge.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\RSPlusBridge.dir\\src\\video\\FrameCapturer.cpp.obj -c C:\\Users\\buddy\\Desktop\\riftplus\\Riftplus\\Rift-plus-bridge\\src\\video\\FrameCapturer.cpp",
+  "file": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/src/video/FrameCapturer.cpp",
+  "output": "CMakeFiles/RSPlusBridge.dir/src/video/FrameCapturer.cpp.obj"
+},
+{
+  "directory": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DNVENC_AVAILABLE -DOPENVR_AVAILABLE @CMakeFiles/RSPlusBridge.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\RSPlusBridge.dir\\src\\video\\VideoEncoder.cpp.obj -c C:\\Users\\buddy\\Desktop\\riftplus\\Riftplus\\Rift-plus-bridge\\src\\video\\VideoEncoder.cpp",
+  "file": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/src/video/VideoEncoder.cpp",
+  "output": "CMakeFiles/RSPlusBridge.dir/src/video/VideoEncoder.cpp.obj"
+},
+{
+  "directory": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/build",
+  "command": "C:\\mingw64\\bin\\c++.exe -DNVENC_AVAILABLE -DOPENVR_AVAILABLE @CMakeFiles/RSPlusBridge.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\RSPlusBridge.dir\\src\\video\\H264Encoder.cpp.obj -c C:\\Users\\buddy\\Desktop\\riftplus\\Riftplus\\Rift-plus-bridge\\src\\video\\H264Encoder.cpp",
+  "file": "C:/Users/buddy/Desktop/riftplus/Riftplus/Rift-plus-bridge/src/video/H264Encoder.cpp",
+  "output": "CMakeFiles/RSPlusBridge.dir/src/video/H264Encoder.cpp.obj"
+}
+]

@@ -1,0 +1,14 @@
+{
+   "jsonid" : "vrresources",
+   "statusicons" : {
+      "Driver_RSPlus" : {
+         "low_battery" : "icons/headset_status_low_battery.png",
+         "searching"   : "icons/headset_status_searching.gif",
+         "searching_alert" : "icons/headset_status_searching_alert.gif",
+         "ready"       : "icons/headset_status_ready.png",
+         "ready_alert" : "icons/headset_status_ready_alert.png",
+         "standby"     : "icons/headset_status_standby.png",
+         "error"       : "icons/headset_status_error.png"
+      }
+   }
+}

@@ -1,0 +1,4 @@
+{
+  "driver_path" : "bin/win64/driver_rsplus.dll",
+  "name" : "rsplus"
+}

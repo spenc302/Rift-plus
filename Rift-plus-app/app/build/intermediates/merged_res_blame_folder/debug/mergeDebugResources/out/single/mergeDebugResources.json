@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.yourapp-debug-26:/layout_activity_main.xml.flat",
+        "source": "com.yourapp-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.yourapp-debug-26:/mipmap_ic_launcher.png.flat",
+        "source": "com.yourapp-main-28:/mipmap/ic_launcher.png"
+    },
+    {
+        "merged": "com.yourapp-debug-26:/xml_usb_device_filter.xml.flat",
+        "source": "com.yourapp-main-28:/xml/usb_device_filter.xml"
+    }
+]
